@@ -5,5 +5,3 @@ module.exports = {
     callbackURL: 'http://localhost:8080/api/sessions/githubcallback'
 }
 
-// es necesario cambiar la extension del archivo a .js
-
